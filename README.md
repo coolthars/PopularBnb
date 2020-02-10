@@ -1,4 +1,4 @@
-# PopularBnb
+# Popularbnb
 ## Problem Statement and Business Case:
 
 Analyse big data (250GB+) to construct a platform to help  airbnb renters plan their trips and also provide insights for investers in airbnb.
