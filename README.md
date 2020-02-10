@@ -9,6 +9,6 @@ This project also shows the average price variation and the number of listings v
 Airbnb historical data is compiled from http://insideairbnb.com/get-the-data.html. More than 2300 csv files; Weather data for different cities is compiled from https://www.ncdc.noaa.gov/cdo-web/datasets
 
 ## Tech Stack
-https://github.com/coolthars/PopularBnb/tree/master/images
+![github-small](https://github.com/coolthars/PopularBnb/blob/master/images/Screen%20Shot%202020-02-10%20at%201.03.08%20PM.png)
 
 ## Demo Link
